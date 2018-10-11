@@ -1,2 +1,2 @@
-# PRSB
-Caterpillar model simulator for Proceedings of royal society B
+# Caterpillar_Simulator_for_PRSA
+Made by F. Okuya to submit Proceedings of royal society B
